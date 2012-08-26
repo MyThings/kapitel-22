@@ -1,0 +1,12 @@
+#
+# https://github.com/MyThings
+#
+.buildpath
+.settings
+.project
+.externalToolBuilders
+.idea
+phpunit.xml
+*.cmd
+*.log
+*.tmp
